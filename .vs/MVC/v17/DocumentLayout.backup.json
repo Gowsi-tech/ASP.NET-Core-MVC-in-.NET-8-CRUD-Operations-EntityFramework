@@ -3,40 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|c:\\users\\user\\uca\\24_02_2024\\mvc\\supermarket\\views\\categories\\_category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\categories\\_category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|c:\\users\\user\\uca\\24_02_2024\\mvc\\supermarket\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|c:\\users\\user\\uca\\24_02_2024\\mvc\\supermarket\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|c:\\users\\user\\uca\\24_02_2024\\mvc\\supermarket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|c:\\users\\user\\uca\\24_02_2024\\mvc\\supermarket\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|c:\\users\\user\\uca\\24_02_2024\\mvc\\supermarket\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|c:\\users\\user\\uca\\24_02_2024\\mvc\\supermarket\\views\\viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|c:\\users\\user\\uca\\24_02_2024\\mvc\\supermarket\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|c:\\users\\user\\uca\\24_02_2024\\mvc\\supermarket\\supermarket.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\supermarket.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|c:\\users\\user\\uca\\24_02_2024\\mvc\\supermarket\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|c:\\users\\user\\uca\\24_02_2024\\mvc\\supermarket\\models\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,8 +23,44 @@
       "RelativeMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|c:\\users\\user\\uca\\24_02_2024\\mvc\\supermarket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|c:\\users\\user\\uca\\24_02_2024\\mvc\\supermarket\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|c:\\users\\user\\uca\\24_02_2024\\mvc\\supermarket\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|c:\\users\\user\\uca\\24_02_2024\\mvc\\supermarket\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|c:\\users\\user\\uca\\24_02_2024\\mvc\\supermarket\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|c:\\users\\user\\uca\\24_02_2024\\mvc\\supermarket\\views\\viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|c:\\users\\user\\uca\\24_02_2024\\mvc\\supermarket\\supermarket.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\supermarket.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|c:\\users\\user\\uca\\24_02_2024\\mvc\\supermarket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|c:\\users\\user\\uca\\24_02_2024\\mvc\\supermarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|c:\\users\\user\\uca\\24_02_2024\\mvc\\supermarket\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB2DFA46-231D-476E-9FC8-3255C6A03553}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -85,9 +97,56 @@
               "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Program.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Program.cs",
+              "RelativeToolTip": "SuperMarket\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:46:54.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Category.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Views\\Categories\\_Category.cshtml",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\Categories\\_Category.cshtml",
+              "ToolTip": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Views\\Categories\\_Category.cshtml*",
+              "RelativeToolTip": "SuperMarket\\Views\\Categories\\_Category.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T08:45:47.433Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "SuperMarket",
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Views\\Categories\\Add.cshtml",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\Categories\\Add.cshtml",
+              "ToolTip": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Views\\Categories\\Add.cshtml",
+              "RelativeToolTip": "SuperMarket\\Views\\Categories\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T05:26:54.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SuperMarket.csproj",
               "DocumentMoniker": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\SuperMarket.csproj",
               "RelativeDocumentMoniker": "SuperMarket\\SuperMarket.csproj",
               "ToolTip": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\SuperMarket.csproj",
@@ -99,33 +158,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "SuperMarket\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Controllers\\CategoriesController.cs*",
-              "RelativeToolTip": "SuperMarket\\Controllers\\CategoriesController.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABXAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "SuperMarket\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABAAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T09:54:05.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Views\\Categories\\Edit.cshtml",
               "RelativeDocumentMoniker": "SuperMarket\\Views\\Categories\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Views\\Categories\\Edit.cshtml*",
-              "RelativeToolTip": "SuperMarket\\Views\\Categories\\Edit.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "SuperMarket\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-24T09:49:02.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SuperMarket\\Views\\Home\\Index.cshtml",
@@ -138,33 +197,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Views\\Categories\\Index.cshtml",
               "RelativeDocumentMoniker": "SuperMarket\\Views\\Categories\\Index.cshtml",
               "ToolTip": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Views\\Categories\\Index.cshtml",
               "RelativeToolTip": "SuperMarket\\Views\\Categories\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-24T05:54:02.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SuperMarket\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "SuperMarket\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-24T06:31:23.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Views\\ViewImports.cshtml",
               "RelativeDocumentMoniker": "SuperMarket\\Views\\ViewImports.cshtml",
@@ -177,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SuperMarket\\Controllers\\HomeController.cs",
@@ -185,25 +244,24 @@
               "RelativeToolTip": "SuperMarket\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T10:00:42.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T10:00:42.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Models\\Category.cs",
               "RelativeDocumentMoniker": "SuperMarket\\Models\\Category.cs",
               "ToolTip": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Models\\Category.cs",
               "RelativeToolTip": "SuperMarket\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T10:00:31.144Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "SuperMarket\\Views\\_ViewStart.cshtml",
@@ -216,20 +274,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "CategoriesRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Models\\CategoriesRepository.cs",
               "RelativeDocumentMoniker": "SuperMarket\\Models\\CategoriesRepository.cs",
               "ToolTip": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\Models\\CategoriesRepository.cs",
               "RelativeToolTip": "SuperMarket\\Models\\CategoriesRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-24T08:57:16.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\UCA\\24_02_2024\\MVC\\SuperMarket\\appsettings.json",
               "RelativeDocumentMoniker": "SuperMarket\\appsettings.json",

@@ -29,3 +29,4 @@ C:\Users\User\UCA\24_02_2024\MVC\SuperMarket\obj\Debug\net8.0\ref\SuperMarket.dl
 C:\Users\User\UCA\24_02_2024\MVC\SuperMarket\obj\Debug\net8.0\SuperMarket.RazorAssemblyInfo.cache
 C:\Users\User\UCA\24_02_2024\MVC\SuperMarket\obj\Debug\net8.0\SuperMarket.RazorAssemblyInfo.cs
 C:\Users\User\UCA\24_02_2024\MVC\SuperMarket\bin\Debug\net8.0\SuperMarket.staticwebassets.runtime.json
+C:\Users\User\UCA\24_02_2024\MVC\SuperMarket\obj\Debug\net8.0\SuperMarket.sourcelink.json
